@@ -1,3 +1,3 @@
-module github.com/inf-rno/zk
+module github.com/jpfourny/zk
 
 go 1.13
